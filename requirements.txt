@@ -1,0 +1,6 @@
+flask
+spacy
+numpy
+pymongo
+gunicorn
+python-dotenv

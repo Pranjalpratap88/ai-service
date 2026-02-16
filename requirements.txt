@@ -1,6 +1,7 @@
-flask
-spacy
-numpy
-pymongo
-gunicorn
-python-dotenv
+flask==3.0.3
+spacy==3.7.5
+numpy<2.0.0
+pymongo==4.8.0
+gunicorn==22.0.0
+python-dotenv==1.0.1
+pydantic==2.8.2

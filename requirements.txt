@@ -1,7 +1,6 @@
 flask==3.0.3
 spacy==3.7.5
-numpy<2.0.0
-pymongo==4.8.0
-gunicorn==22.0.0
+numpy==1.26.4
+pymongo==4.6.1
+gunicorn==21.2.0
 python-dotenv==1.0.1
-pydantic==2.8.2
